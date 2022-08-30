@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mvaltas
-- 👀 I’m interested in software development, systems thinking, maths and music production.
-- 📫 mvaltas@marcovaltas.com
+- 👋 Hi, I’m @mvaltas 
+- 👀 I’m interested in software development, systems thinking, 
+maths, mechanical keyboards and music production.
 
-<!---
-mvaltas/mvaltas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is my [@Thoughtworks](https://github.com/thoughtworks/) profile. My
+personal open source projects can be found on my
+[mavcunha](https://github.com/mavcunha) personal profile.
+
